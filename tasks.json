@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "titulo": "Ir al supermercado",
+        "descripcion": "Arena para gato, Mezcla para panqueques, Yogurt",
+        "completada": false,
+        "fecha_creacion": "2024-11-1T10:00:00.000Z"
+    },
+    {
+        "id": 2,
+        "titulo": "Estudiar para el examen",
+        "descripcion": "Sección 14.1, Sección 14.2, Sección 14.3",
+        "completada": false,
+        "fecha_creacion": "2024-11-1T12:00:00.000Z"
+    },
+    {
+        "id": 3,
+        "titulo": "Limpiar",
+        "descripcion": "Limpiar la mesa, Barrer, Lavar platos, Lavar ropa",
+        "completada": false,
+        "fecha_creacion": "2024-11-1T10:00:00.000Z"
+    }
+]

@@ -1,0 +1,17 @@
+GET http://localhost:4000/tareas
+
+###
+GET http://localhost:4000/tareas/:id
+
+###
+POST http://localhost:4000/tareas
+Content-Type: "application/json"
+
+{
+    "titulo": "Comer",
+    "descripcion": "Pollo, Papas, Pizza, todo menos sopa y huevo"
+}
+
+###
+
+
